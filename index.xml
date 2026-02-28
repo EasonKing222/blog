@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>8880512 笔记</title>
+    <link>https://blog.8880512.xyz/</link>
+    <description>Recent content on 8880512 笔记</description>
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sat, 28 Feb 2026 00:00:00 +0800</lastBuildDate>
+    <atom:link href="https://blog.8880512.xyz/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2026 学习地图（持续更新）</title>
+      <link>https://blog.8880512.xyz/learning/2026/02/2026-%E5%AD%A6%E4%B9%A0%E5%9C%B0%E5%9B%BE%E6%8C%81%E7%BB%AD%E6%9B%B4%E6%96%B0/</link>
+      <pubDate>Sat, 28 Feb 2026 00:00:00 +0800</pubDate>
+      <guid>https://blog.8880512.xyz/learning/2026/02/2026-%E5%AD%A6%E4%B9%A0%E5%9C%B0%E5%9B%BE%E6%8C%81%E7%BB%AD%E6%9B%B4%E6%96%B0/</guid>
+      <description>学习主题、资源和阶段性输出计划。</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>https://blog.8880512.xyz/about/</link>
+      <pubDate>Sat, 28 Feb 2026 00:00:00 +0800</pubDate>
+      <guid>https://blog.8880512.xyz/about/</guid>
+      <description>&lt;p&gt;这是我的个人博客，主要记录：&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;OpenClaw 使用思考&lt;/li&gt;&#xA;&lt;li&gt;自我学习资料整理&lt;/li&gt;&#xA;&lt;li&gt;生活思考与笔记&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Now</title>
+      <link>https://blog.8880512.xyz/now/</link>
+      <pubDate>Sat, 28 Feb 2026 00:00:00 +0800</pubDate>
+      <guid>https://blog.8880512.xyz/now/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;正在搭建一个可长期使用的个人知识博客。&lt;/li&gt;&#xA;&lt;li&gt;重点是高复用、低维护、可检索。&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>OpenClaw 工作流第一篇：从想法到可复用流程</title>
+      <link>https://blog.8880512.xyz/openclaw/2026/02/openclaw-%E5%B7%A5%E4%BD%9C%E6%B5%81%E7%AC%AC%E4%B8%80%E7%AF%87%E4%BB%8E%E6%83%B3%E6%B3%95%E5%88%B0%E5%8F%AF%E5%A4%8D%E7%94%A8%E6%B5%81%E7%A8%8B/</link>
+      <pubDate>Sat, 28 Feb 2026 00:00:00 +0800</pubDate>
+      <guid>https://blog.8880512.xyz/openclaw/2026/02/openclaw-%E5%B7%A5%E4%BD%9C%E6%B5%81%E7%AC%AC%E4%B8%80%E7%AF%87%E4%BB%8E%E6%83%B3%E6%B3%95%E5%88%B0%E5%8F%AF%E5%A4%8D%E7%94%A8%E6%B5%81%E7%A8%8B/</guid>
+      <description>记录我如何把一次性操作整理成可重复流程。</description>
+    </item>
+    <item>
+      <title>速记：一个值得保留的小观察</title>
+      <link>https://blog.8880512.xyz/notes/2026/02/%E9%80%9F%E8%AE%B0%E4%B8%80%E4%B8%AA%E5%80%BC%E5%BE%97%E4%BF%9D%E7%95%99%E7%9A%84%E5%B0%8F%E8%A7%82%E5%AF%9F/</link>
+      <pubDate>Sat, 28 Feb 2026 00:00:00 +0800</pubDate>
+      <guid>https://blog.8880512.xyz/notes/2026/02/%E9%80%9F%E8%AE%B0%E4%B8%80%E4%B8%AA%E5%80%BC%E5%BE%97%E4%BF%9D%E7%95%99%E7%9A%84%E5%B0%8F%E8%A7%82%E5%AF%9F/</guid>
+      <description>30 秒记下，周末统一整理。</description>
+    </item>
+    <item>
+      <title>月度复盘模板</title>
+      <link>https://blog.8880512.xyz/life/2026/02/%E6%9C%88%E5%BA%A6%E5%A4%8D%E7%9B%98%E6%A8%A1%E6%9D%BF/</link>
+      <pubDate>Sat, 28 Feb 2026 00:00:00 +0800</pubDate>
+      <guid>https://blog.8880512.xyz/life/2026/02/%E6%9C%88%E5%BA%A6%E5%A4%8D%E7%9B%98%E6%A8%A1%E6%9D%BF/</guid>
+      <description>记录状态、问题、改进动作的固定模板。</description>
+    </item>
+  </channel>
+</rss>

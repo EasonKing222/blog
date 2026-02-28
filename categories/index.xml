@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on 8880512 笔记</title>
+    <link>https://blog.8880512.xyz/categories/</link>
+    <description>Recent content in Categories on 8880512 笔记</description>
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sat, 28 Feb 2026 00:00:00 +0800</lastBuildDate>
+    <atom:link href="https://blog.8880512.xyz/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Learning</title>
+      <link>https://blog.8880512.xyz/categories/learning/</link>
+      <pubDate>Sat, 28 Feb 2026 00:00:00 +0800</pubDate>
+      <guid>https://blog.8880512.xyz/categories/learning/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Life</title>
+      <link>https://blog.8880512.xyz/categories/life/</link>
+      <pubDate>Sat, 28 Feb 2026 00:00:00 +0800</pubDate>
+      <guid>https://blog.8880512.xyz/categories/life/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Notes</title>
+      <link>https://blog.8880512.xyz/categories/notes/</link>
+      <pubDate>Sat, 28 Feb 2026 00:00:00 +0800</pubDate>
+      <guid>https://blog.8880512.xyz/categories/notes/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Openclaw</title>
+      <link>https://blog.8880512.xyz/categories/openclaw/</link>
+      <pubDate>Sat, 28 Feb 2026 00:00:00 +0800</pubDate>
+      <guid>https://blog.8880512.xyz/categories/openclaw/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

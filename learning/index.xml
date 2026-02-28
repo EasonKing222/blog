@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Learnings on 8880512 笔记</title>
+    <link>https://blog.8880512.xyz/learning/</link>
+    <description>Recent content in Learnings on 8880512 笔记</description>
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sat, 28 Feb 2026 00:00:00 +0800</lastBuildDate>
+    <atom:link href="https://blog.8880512.xyz/learning/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2026 学习地图（持续更新）</title>
+      <link>https://blog.8880512.xyz/learning/2026/02/2026-%E5%AD%A6%E4%B9%A0%E5%9C%B0%E5%9B%BE%E6%8C%81%E7%BB%AD%E6%9B%B4%E6%96%B0/</link>
+      <pubDate>Sat, 28 Feb 2026 00:00:00 +0800</pubDate>
+      <guid>https://blog.8880512.xyz/learning/2026/02/2026-%E5%AD%A6%E4%B9%A0%E5%9C%B0%E5%9B%BE%E6%8C%81%E7%BB%AD%E6%9B%B4%E6%96%B0/</guid>
+      <description>学习主题、资源和阶段性输出计划。</description>
+    </item>
+  </channel>
+</rss>

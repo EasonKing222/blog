@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Life on 8880512 笔记</title>
+    <link>https://blog.8880512.xyz/categories/life/</link>
+    <description>Recent content in Life on 8880512 笔记</description>
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sat, 28 Feb 2026 00:00:00 +0800</lastBuildDate>
+    <atom:link href="https://blog.8880512.xyz/categories/life/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>月度复盘模板</title>
+      <link>https://blog.8880512.xyz/life/2026/02/%E6%9C%88%E5%BA%A6%E5%A4%8D%E7%9B%98%E6%A8%A1%E6%9D%BF/</link>
+      <pubDate>Sat, 28 Feb 2026 00:00:00 +0800</pubDate>
+      <guid>https://blog.8880512.xyz/life/2026/02/%E6%9C%88%E5%BA%A6%E5%A4%8D%E7%9B%98%E6%A8%A1%E6%9D%BF/</guid>
+      <description>记录状态、问题、改进动作的固定模板。</description>
+    </item>
+  </channel>
+</rss>

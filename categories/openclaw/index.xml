@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Openclaw on 8880512 笔记</title>
+    <link>https://blog.8880512.xyz/categories/openclaw/</link>
+    <description>Recent content in Openclaw on 8880512 笔记</description>
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sat, 28 Feb 2026 00:00:00 +0800</lastBuildDate>
+    <atom:link href="https://blog.8880512.xyz/categories/openclaw/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OpenClaw 工作流第一篇：从想法到可复用流程</title>
+      <link>https://blog.8880512.xyz/openclaw/2026/02/openclaw-%E5%B7%A5%E4%BD%9C%E6%B5%81%E7%AC%AC%E4%B8%80%E7%AF%87%E4%BB%8E%E6%83%B3%E6%B3%95%E5%88%B0%E5%8F%AF%E5%A4%8D%E7%94%A8%E6%B5%81%E7%A8%8B/</link>
+      <pubDate>Sat, 28 Feb 2026 00:00:00 +0800</pubDate>
+      <guid>https://blog.8880512.xyz/openclaw/2026/02/openclaw-%E5%B7%A5%E4%BD%9C%E6%B5%81%E7%AC%AC%E4%B8%80%E7%AF%87%E4%BB%8E%E6%83%B3%E6%B3%95%E5%88%B0%E5%8F%AF%E5%A4%8D%E7%94%A8%E6%B5%81%E7%A8%8B/</guid>
+      <description>记录我如何把一次性操作整理成可重复流程。</description>
+    </item>
+  </channel>
+</rss>
