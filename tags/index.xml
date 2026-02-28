@@ -6,8 +6,22 @@
     <description>Recent content in Tags on 8880512 笔记</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 28 Feb 2026 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 28 Feb 2026 09:40:05 +0800</lastBuildDate>
     <atom:link href="https://blog.8880512.xyz/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Deploy</title>
+      <link>https://blog.8880512.xyz/tags/deploy/</link>
+      <pubDate>Sat, 28 Feb 2026 09:40:05 +0800</pubDate>
+      <guid>https://blog.8880512.xyz/tags/deploy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Test</title>
+      <link>https://blog.8880512.xyz/tags/test/</link>
+      <pubDate>Sat, 28 Feb 2026 09:40:05 +0800</pubDate>
+      <guid>https://blog.8880512.xyz/tags/test/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Learning</title>
       <link>https://blog.8880512.xyz/tags/learning/</link>

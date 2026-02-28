@@ -6,8 +6,15 @@
     <description>Recent content on 8880512 笔记</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 28 Feb 2026 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 28 Feb 2026 09:40:05 +0800</lastBuildDate>
     <atom:link href="https://blog.8880512.xyz/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>站点连通测试：上线成功</title>
+      <link>https://blog.8880512.xyz/notes/2026/02/%E7%AB%99%E7%82%B9%E8%BF%9E%E9%80%9A%E6%B5%8B%E8%AF%95%E4%B8%8A%E7%BA%BF%E6%88%90%E5%8A%9F/</link>
+      <pubDate>Sat, 28 Feb 2026 09:40:05 +0800</pubDate>
+      <guid>https://blog.8880512.xyz/notes/2026/02/%E7%AB%99%E7%82%B9%E8%BF%9E%E9%80%9A%E6%B5%8B%E8%AF%95%E4%B8%8A%E7%BA%BF%E6%88%90%E5%8A%9F/</guid>
+      <description>&lt;p&gt;如果你能看到这篇文章，说明博客已经从本地成功发布到线上域名。&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;域名：&lt;code&gt;https://blog.8880512.xyz&lt;/code&gt;&lt;/li&gt;&#xA;&lt;li&gt;发布方式：&lt;code&gt;npm run deploy&lt;/code&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
     <item>
       <title>2026 学习地图（持续更新）</title>
       <link>https://blog.8880512.xyz/learning/2026/02/2026-%E5%AD%A6%E4%B9%A0%E5%9C%B0%E5%9B%BE%E6%8C%81%E7%BB%AD%E6%9B%B4%E6%96%B0/</link>

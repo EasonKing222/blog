@@ -1,2 +1,9 @@
 [
+  {
+    "title": "站点连通测试：上线成功",
+    "permalink": "https://blog.8880512.xyz/notes/2026/02/%E7%AB%99%E7%82%B9%E8%BF%9E%E9%80%9A%E6%B5%8B%E8%AF%95%E4%B8%8A%E7%BA%BF%E6%88%90%E5%8A%9F/",
+    "date": "2026-02-28T09:40:05+08:00",
+    "summary": "如果你能看到这篇文章，说明博客已经从本地成功发布到线上域名。\n域名：https://blog.8880512.xyz 发布方式：npm run deploy ",
+    "tags": ["test","deploy"]
+  }
 ]
